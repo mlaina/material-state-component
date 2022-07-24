@@ -27,7 +27,7 @@ import FingerprintIcon from '@mui/icons-material/Fingerprint';
 import GraphicEqIcon from '@mui/icons-material/GraphicEq';
 import StateComponent from 'material-state-component';
 
-export const states = [
+const states = [
   {
     label: 'First',
     color: '#562C2C',
