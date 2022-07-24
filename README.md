@@ -77,7 +77,7 @@ export default App;
 
 ```
 
-![states](./images/state.png)
+![states](https://github.com/mlaina/material-state-component/blob/main/images/state.png)
 
 ## License
 

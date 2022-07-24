@@ -1,6 +1,6 @@
 {
   "name": "material-state-component",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "This component is based on material-ui library. It helps to represent state flows. Made with create-react-library",
   "author": "vaugar",
   "license": "MIT",
