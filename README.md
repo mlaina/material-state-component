@@ -14,6 +14,8 @@ npm install --save material-state-component
 
 ## Usage
 
+[Demo](https://codesandbox.io/s/interesting-kirch-lqkbxg?file=/src/App.js)
+
 ```jsx
 import React from 'react'
 import CachedIcon from '@mui/icons-material/Cached';
